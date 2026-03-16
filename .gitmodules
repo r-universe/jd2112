@@ -2,14 +2,14 @@
 	path = .registry
 	url = https://github.com/jd2112/jd2112.r-universe.dev
 	branch = HEAD
-[submodule "Alveolar-Cell-Type-Deconvolution"]
-	path = Alveolar-Cell-Type-Deconvolution
+[submodule "AlveolarCellTypeDeconvolution"]
+	path = AlveolarCellTypeDeconvolution
 	url = https://github.com/JD2112/Alveolar-Cell-Type-Deconvolution
 [submodule "ComplexPCA"]
 	path = ComplexPCA
 	url = https://github.com/JD2112/ComplexPCA
-[submodule "Shiny-WGCNA"]
-	path = Shiny-WGCNA
+[submodule "ShinyWGCNA"]
+	path = ShinyWGCNA
 	url = https://github.com/JD2112/Shiny-WGCNA
 [submodule "jyotirmoymanifest"]
 	path = jyotirmoymanifest
