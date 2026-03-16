@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/jd2112/jd2112.r-universe.dev
 	branch = HEAD
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
+[submodule "jyotirmoymanifest"]
+	path = jyotirmoymanifest
+	url = https://github.com/JD2112/jyotirmoymanifest
+[submodule "olinkWrapper"]
+	path = olinkWrapper
+	url = https://github.com/JD2112/olinkWrapper
