@@ -8,9 +8,18 @@
 [submodule "ComplexPCA"]
 	path = ComplexPCA
 	url = https://github.com/JD2112/ComplexPCA
+[submodule "RefFreeEWAS"]
+	path = RefFreeEWAS
+	url = https://github.com/cran/RefFreeEWAS
 [submodule "ShinyWGCNA"]
 	path = ShinyWGCNA
 	url = https://github.com/JD2112/Shiny-WGCNA
+[submodule "extrafont"]
+	path = extrafont
+	url = https://github.com/wch/extrafont
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/hrbrmstr/hrbrthemes
 [submodule "jyotirmoymanifest"]
 	path = jyotirmoymanifest
 	url = https://github.com/JD2112/jyotirmoymanifest
